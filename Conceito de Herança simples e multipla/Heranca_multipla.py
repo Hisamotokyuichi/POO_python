@@ -34,7 +34,7 @@ class ave(animais):
 class gato(mamiferos):
     pass
 
-
+# MIXIN é uma classe que não é uma classe pai, mas que pode ser usada para adicionar funcionalidades a outras classes.
 class falarmixin:
     def falar(self):
         return "olá estou falando"
