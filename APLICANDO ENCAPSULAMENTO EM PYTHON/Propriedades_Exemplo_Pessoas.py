@@ -31,9 +31,8 @@ class pessoas:
     # instanciação da classe
 
 pessoa = pessoas("isaque", 1999) # passando o nome e o ano de nascimento
-
 print(f"Nome: {pessoa.nome}\tIdade: {pessoa.idade}")  
 
+# \t é um caractere de escape que representa um tabulação, ou seja, ele pula 8 espaços na tela.
 
-
-    
+# Fim do código
