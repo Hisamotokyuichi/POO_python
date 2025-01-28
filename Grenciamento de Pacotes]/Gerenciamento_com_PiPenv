@@ -1,0 +1,7 @@
+
+
+# aqui  instalamos o pipenv para poder instalar o dejango e desistalar suas dependencias !
+
+# pip instal pipenv
+#pipenv install Django 
+# pipenv graph 
